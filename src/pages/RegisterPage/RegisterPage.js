@@ -6,6 +6,7 @@ export default function RegisterPage() {
         <div style={{ display: "flex" }}>
             <Register />
             <img
+                src="https://res.cloudinary.com/duicg4gyd/image/upload/v1732074899/signup-img_x4kzcj.jpg"
                 style={{ maxHeight: "100vh", width: "50vw" }}
                 alt="Login cover"
             />
